@@ -1,0 +1,22 @@
+*{
+    font-family: arial, sans-serif;
+}
+.title{
+    text-align: center;
+}
+.calculator{
+    text-align: center;
+}
+input{
+    width: 70px;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px
+    
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(121, 218, 121)
+
+}
