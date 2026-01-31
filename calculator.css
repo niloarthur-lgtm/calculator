@@ -1,22 +1,50 @@
-*{
+* {
     font-family: arial, sans-serif;
 }
-.title{
-    text-align: center;
+
+body {
+    background-color: #cbdad5;
 }
-.calculator{
-    text-align: center;
+
+.calculator-all {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+    background-color: #000000;
+    border: 3px solid;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 120px;
+
+
 }
-input{
-    width: 70px;
+
+.title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.text {
+    color: #ffffff;
+}
+
+.calculator {
+    align-content: center;
+}
+
+input {
+    width: 108px;
     align-items: center;
     padding: 5px;
-    border-radius: 5px
-    
-}
-button{
-    padding: 5px;
     border-radius: 5px;
-    background-color: rgb(121, 218, 121)
+    background-color:#ffffff;
+}
 
+button {
+    width: 45px;
+    height: 30px;
+    border-radius: 20px;
+   background-color:#5a5a5a;
+    color: rgb(4, 206, 4);
+    margin-top: 5px;
 }
