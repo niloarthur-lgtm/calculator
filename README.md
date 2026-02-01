@@ -3,7 +3,7 @@
 >i'm creating a calculador with html, JS and css.
 >i writed this readme.md with the markup language markdown.
 
-<a href=https://niloarthur-lgtm.github.io/calculator/><button>amazing</button></a>
+<a href="https://niloarthur-lgtm.github.io/calculator/" target="_self"><button>amazing</button></a>
 
 # Updates
 ### Last update:
